@@ -50,7 +50,7 @@ export function Projetos() {
             </h2>
             <p className="relative text-sm text-white">
               Alguns dos projetos pessoais que já realizei
-              ao longo da minha trajetória como Data Scientist.
+              ao longo do meu desenvolvimento profissional como Data Scientist.
             </p>
         </div>
         <div className="grid grid-cols-2 gap-4 md:grid-cols-3">

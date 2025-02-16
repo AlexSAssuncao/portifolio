@@ -3,13 +3,13 @@ import { HiAcademicCap, HiCodeBracketSquare } from "react-icons/hi2"
 export function Skills() {
   const educations = [
     {
-      name: "Bacharelado em Ciência da Computação | UNIFAP",
+      name: "XXXXXXXXXXXXXXXXXXXXXX | UFPA",
     },
     {
-      name: "Academy Machine Learning Foundations | AWS",
+      name: "CURSO | AWS",
     },
     {
-      name: "Academy Cloud Foundations | AWS",
+      name: "CURSO | AWS",
     },
   ]
 
@@ -18,26 +18,26 @@ export function Skills() {
       name: "Python",
       icon: "images/python.png",
     },
-    {
-      name: "R",
-      icon: "images/r.png",
-    },
+    // {
+    //   name: "R",
+    //   icon: "images/r.png",
+    // },
     {
       name: "SQL",
       icon: "images/sql.png"
     },
-    {
-      name: "Spark",
-      icon: "images/spark.png",
-    },
+    // {
+    //   name: "Spark",
+    //   icon: "images/spark.png",
+    // },
     {
       name: "Docker",
       icon: "images/docker.png",
     },
-    {
-      name: "Tensorflow",
-      icon: "images/tensorflow.webp",
-    },
+    // {
+    //   name: "Tensorflow",
+    //   icon: "images/tensorflow.webp",
+    // },
     {
       name: "Sklearn",
       icon: "images/Scikit_learn.png",
@@ -46,22 +46,22 @@ export function Skills() {
       name: "AWS",
       icon: "images/aws.png",
     },
-    {
-      name: "FastAPI",
-      icon: "images/fastapi.jpg",
-    },
-    {
-      name: "MlFlow",
-      icon: "images/mlflow.png",
-    },
-    {
-      name: "BentoML",
-      icon: "images/bentoml.png",
-    },
-    {
-      name:"Terraform",
-      icon:"images/terraform.webp"
-    }
+    // {
+    //   name: "FastAPI",
+    //   icon: "images/fastapi.jpg",
+    // },
+    // {
+    //   name: "MlFlow",
+    //   icon: "images/mlflow.png",
+    // },
+    // {
+    //   name: "BentoML",
+    //   icon: "images/bentoml.png",
+    // },
+    // {
+    //   name:"Terraform",
+    //   icon:"images/terraform.webp"
+    // }
   ]
 
   return (

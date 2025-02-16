@@ -10,9 +10,7 @@ export function About() {
                     <span className='font-handwriting text-4xl'>Mim</span>
                 </h2>
                 <p className='text-gray-900 my-6 md:text-center mx-auto max-w-3xl'>
-                  Trabalhei em Empresas relevantes no Mercado Brasileiro em projetos
-                  de grande impacto no negocio desde criação de pepiline de dados na aws, analises de dados e
-                  modelagem preditiva e desenvolvimento de APIs para consumir modelos de machine learning.
+                Texto de apresentação... Texto de apresentação... Texto de apresentação... Texto de apresentação... Texto de apresentação... Texto de apresentação... Texto de apresentação... Texto de apresentação... 
                 </p>
                 <div className='absolute left-1/2 top-3 z-0 w-10 rounded-lg bg-blue-100/40'></div>
             </div>
@@ -23,7 +21,7 @@ export function About() {
             <p>
               <span className="mr-1">Meu nome é</span>
               <span className="font-headline font-bold uppercase text-blue-900">
-                Douglas silva 
+                Alex Assunção
               </span>
             </p>
             <table className="mt-4 w-full text-sm">
@@ -33,7 +31,7 @@ export function About() {
                   Github:
                   </td>
                   <td>
-                    <a href="https://github.com/Douglas-cc" className="underline hover:text-blue-800">
+                    <a href="https://github.com/AlexSAssuncao" className="underline hover:text-blue-800">
                       Acompanhe
                     </a>
                   </td>
@@ -48,7 +46,7 @@ export function About() {
                     </a>
                   </td>
                 </tr>
-                <tr>
+                {/* <tr>
                   <td className="font-headline font-bold uppercase text-blue-900">
                     ID Lattes:
                   </td>
@@ -60,7 +58,7 @@ export function About() {
                     2532281193329996
                     </a>
                   </td>
-                </tr>
+                </tr> */}
                 <tr>
                   <td className="font-headline font-bold uppercase text-blue-900">
                     Disponível:
@@ -76,7 +74,7 @@ export function About() {
             </table>
             </div>
             <div className="absolute -left-2 -top-4 md:-top-12 md:h-72 md:w-56 h-24 w-20 rounded-lg bg-gray-600 bg-cover
-            bg-[url(https://avatars.githubusercontent.com/u/47650453?s=400&u=6ac5479614c265c9e39f2a175f03568f868755a5&v=4)]
+            bg-[url(https://avatars.githubusercontent.com/u/160430911?s=400&u=5719e525632c69c40620dda1f6472139425cd52f&v=4)]
             bg-center md:-left-12"></div>
             </div>
             </div>
